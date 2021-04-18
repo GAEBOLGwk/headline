@@ -1,24 +1,2 @@
-# headline
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+模拟 toutiao-creative-master 头条软件但是由于没有后台支持所以就先搁置一下
+基础界面样式有了 就是一个布局其他什么都没整 （头像弄了但是感觉写法质嫩）router搞了
